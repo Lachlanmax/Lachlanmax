@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I’m Maxine
 
-<!--
-**Lachlanmax/Lachlanmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer based in **Berlin, Germany**  
+🌍 Open-source enthusiast  
+😄 Pronouns: **she/her**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About me
+- 🔭 I’m currently working on building cool things and breaking them (intentionally… mostly)
+- 🌱 I love programming in many languages, especially **C#**, **Java**, and **Python**
+- 👯 I’m always happy to collaborate on **open-source projects**
+- 🤔 I believe every bug is just an **undocumented feature**
+- 💬 Ask me about backend development, clean code, or debugging adventures
+- ⚡ Fun fact: Every bug is just an undocumented feature!
+
+---
+
+### 🛠️ Tech I enjoy working with
+- **Languages:** C#, Java, Python (and friends)
+- **Mindset:** Clean code, curiosity, and continuous learning
+
+---
+
+### 🌱 Open Source
+I strongly believe in the power of open source — sharing knowledge, learning together, and making software better for everyone.
+
+Thanks for stopping by! 🚀
