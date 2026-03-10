@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently working on building cool things and breaking them (intentionally… mostly)  
-🌱 I love programming in many languages, especially **C#**, **Java**, and **Python**  
-👯 I’m always happy to collaborate on open-source projects  
-🤔 I believe every bug is just an undocumented feature  
-💬 Ask me about backend development, clean code, or debugging adventures  
-⚡ Fun fact: Every bug is just an undocumented feature!
+I’m currently working on building cool things and breaking them (intentionally… mostly)  
+I love programming in many languages, especially **C#**, **Java**, and **Python**  
+I’m always happy to collaborate on open-source projects  
+I believe every bug is just an undocumented feature  
+Ask me about backend development, clean code, or debugging adventures  
+The process is as much as important as the end result
 
 ---
 
