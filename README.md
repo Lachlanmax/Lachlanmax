@@ -29,5 +29,24 @@ The process is as much as important as the end result
 I strongly believe in the power of open source — sharing knowledge, learning together, and making software better for everyone.
 
 ---
+## ☕ Support Me
 
+If my bugs made you laugh, help finance the next one:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/lachlanmax" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
+         alt="Buy Me A Coffee" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.patreon.com/LachlanProMax" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white" 
+         alt="Patreon Support" height="50">
+  </a>
+</p>
+
+
+---
 Thanks for stopping by! 🚀
+---
+
